@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000;
+}
+
+.image-container {
+    max-width: 80%;
+    max-height: 80%;
+}
+
+#dynamic-image {
+    width: 100%;
+    height: auto;
+}
